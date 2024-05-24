@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 180px;
+
+}
+.con{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+li{
+    list-style-type: none;
+}

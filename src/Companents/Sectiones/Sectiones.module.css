@@ -1,0 +1,7 @@
+.note{
+background-image: url("../Images/hero_2.jpg");
+min-height: 70vh;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
